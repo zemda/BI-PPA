@@ -1,5 +1,11 @@
-# Homework assignments
+# BI-PPA
 
-This is the base branch for your homeworks.
-Pushing this branch to the origin remote **does not** trigger the tester.
-See instructions page at Courses.
+V semestru budou zadány 3 sady domácích úloh. První bude na lambda kalkulus, druhá na funkcionální programování (v Racketu) a třetí na logické programování (v Prologu). Úlohy budou odevzdávány a automaticky hodnoceny pomocí systému Gitlab.
+
+## Seznam úkolů
+
+| Sada                                  | Bude zadáno | Deadline          | Název GIT větve | Max bodů |
+|---------------------------------------|-------------|-------------------|-----------------|----------|
+| Lambda kalkulus | 27\. 10.    | 27\. 11. 12:00    | `hw_lambda`     | 10       |
+| FP (Racket)                           | 17\. 11.    | 11\. 12. 12:00    | `hw_racket`     | 10       |
+| LP (Prolog)                           | 8\. 12.     | 2\. 1. 2024 12:00 | `hw_prolog`     | 10       |
